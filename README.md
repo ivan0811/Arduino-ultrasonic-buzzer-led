@@ -7,7 +7,7 @@
 5. Ultrasonic hc-sr04
 6. Jumper wire male to male
 7. Jumper wire male to female
-8. ie points breadboard
+8. Tie points breadboard
 ## Software
 Arduino IDE https://www.arduino.cc/en/software
 ## Sketch Board
